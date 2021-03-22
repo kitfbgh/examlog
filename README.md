@@ -26,3 +26,5 @@
 	error
 	notice
 	```
+
+	[Package](https://packagist.org/packages/snic104/logger)
